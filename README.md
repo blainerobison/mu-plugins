@@ -7,7 +7,7 @@ Source: [WP-Stack](https://github.com/markjaquith/WP-Stack)
 
 1. Drop into: `{WordPress content dir}/mu-plugins/`
 
-2. Add to `wp-config.php`:
+2. Add to `wp-config.php` or `local-config.php`:
 ```
 /**
  * Local / Staging Environment
